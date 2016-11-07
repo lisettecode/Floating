@@ -1,0 +1,21 @@
+.contenedor	{
+	width: 700px;
+	border: 4px solid #CCCCCC;
+}
+
+.caja	{
+	height: 100px;
+	width: 25%;
+}
+
+.amarilla	{
+	background-color: #FFFF00;		
+}
+
+.cyan	{
+	background-color: #3A81BA;
+}
+
+.magenta	{
+	background-color: #ED2251;
+}
