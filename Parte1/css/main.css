@@ -1,14 +1,14 @@
-.contenedor	{
+.caja	{
 	width: 700px;
 	border: 4px solid #CCCCCC;
 }
 
-.caja	{
+.block	{
 	height: 100px;
 	width: 25%;
 }
 
-.amarilla	{
+.amarillo	{
 	background-color: #FFFF00;		
 }
 
